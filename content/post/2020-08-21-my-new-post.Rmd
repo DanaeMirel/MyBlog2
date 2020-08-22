@@ -54,11 +54,11 @@ to avoid listing the name of all the files.
 
 Once the file we're working on is added to the staging area (with `git add`) and we've made the changes we want to make, the command to permanently store all the changes is **`git commit`**. It always saves everything that is in the staging area as one unit. 
 
-When you commit changes, git requires you to enter a **log message**. This serves the same purpose as a comment in a program: it tells the next person to examine the repository why you made a change. The `-m` flag comes in handy for this purpose.
+When you commit changes, git requires you to enter a **log message**. This serves the same purpose as a comment in a program: it tells the next person to examine the repository why you made a change. The **`-m`** flag comes in handy for this purpose.
 
 `git commit -m "This is a comment about the changes made"`
 
-If you accidentally mistype a commit message, you can change it using the `--amend` flag.
+If you accidentally mistype a commit message, you can change it using the **`--amend`** flag.
 
 `git commit --amend - m "new message"`
 
@@ -89,7 +89,16 @@ nothing to commit, working tree clean
 
 `git status` shows you which files are in this staging area, and which files have changes that haven't yet been put there. 
 
-In order to compare the file as it currently is to what you last committed, you can use `git diff filename`. 
+In order to compare the file as it currently is to what you last committed, you can use **`git diff filename`**. 
 
-The command `git diff` without any file names will show you all the changes in your repository, while `git diff directory` will show you the changes to the 
+The command **`git diff`** without any file names will show you all the changes in your repository, while **`git diff directory`** will show you the changes to the 
 files in some directory.
+
+## How to empty the staging area?
+
+The `git reset HEAD` command lets you remove files from the staging area and return them to their previous state.
+
+## Display changes
+
+If you need to see what lines of code or lines of text have changed in the files that compose your repository (since the last commit), you can use the `git show` command, which shows the history of changes, when they were made, and by whom they were made.
+
