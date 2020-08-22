@@ -1,0 +1,76 @@
+---
+title: 'Getting started with git'
+author: Danae Martinez
+date: '2020-08-21'
+slug: ''
+categories: []
+tags: []
+---
+
+
+
+<div style="text-align: justify">
+
+<div id="basic-workflow" class="section level1">
+<h1>Basic workflow</h1>
+<div id="what-is-git" class="section level2">
+<h2>What is git?</h2>
+<p>Git is a <strong>version control system</strong>, which is a tool that manages changes made
+to the files and directories in a project. Git isn’t just for programmers and engineers, any job that has versions that change over time can be managed with git.</p>
+<p>Another advantage of git is that it eases collaboration, since its system is
+also able to integrate the work done by several people and keep the history of changes made by each collaborator. Git allows you to:</p>
+<ul>
+<li>Keep track of changes to files,</li>
+<li>Notice conflicts between changes made by different people,</li>
+<li>Synchronize files between different computers.</li>
+</ul>
+<center>
+<img src="/git.png" />
+<!-- ![](git.png) -->
+</center>
+</div>
+<div id="where-does-git-store-information" class="section level2">
+<h2>Where does git store information?</h2>
+<p>Each of your git projects has two parts: the files and directories that you
+create and edit directly, and the extra information that git records about the
+project’s history. The combination of these two things is called
+a <strong>repository</strong>.</p>
+<p>Git stores all of its extra information in a directory called <strong><code>.git</code></strong>
+located in the root directory of the repository.</p>
+</div>
+<div id="starting-a-repository" class="section level2">
+<h2>Starting a repository</h2>
+<p>The command for starting a new repository, that is, telling Git that we want to use its version control system in our project, is <strong><code>git init</code></strong>. When running this command, the <strong><code>.git</code></strong> directory will be generated. A space known as “staging area” is also generated in RAM, which will temporarily save our files.</p>
+</div>
+<div id="adding-files-to-the-staging-area" class="section level2">
+<h2>Adding files to the “staging area”</h2>
+<p>To indicate that we want to add a file to our repository, we use the
+<strong><code>git add filename</code></strong> command. This is the first step in saving our changes.</p>
+<p>If you want to add all the files that have changed, you can use <strong><code>git add .</code></strong>
+to avoid listing the name of all the files.</p>
+</div>
+<div id="how-do-i-commit-changes-store-changes-made-to-a-file" class="section level2">
+<h2>How do I commit changes? store changes made to a file</h2>
+<p>Once the file we’re working on is added to the staging area (with <code>git add</code>) and we’ve made the changes we want to make, the command to permanently store all the changes is <strong><code>git commit</code></strong>. It always saves everything that is in the staging area as one unit.</p>
+<p>When you commit changes, git requires you to enter a <strong>log message</strong>. This serves the same purpose as a comment in a program: it tells the next person to examine the repository why you made a change. The <code>-m</code> flag comes in handy for this purpose.</p>
+<p><code>git commit -m "This is a comment about the changes made"</code></p>
+<p>If you accidentally mistype a commit message, you can change it using the <code>--amend</code> flag.</p>
+<p><code>git commit --amend - m "new message"</code></p>
+<center>
+<img src="/git_workflow.png" alt="git work flow" />
+<!-- ![git work flow](git_workflow.png) -->
+</center>
+<p>We have already explained that the <strong>staging area</strong> is the space in which git stores files with changes you want to save, but that haven’t been saved yet.
+Putting files in the staging area is like putting things in a box, while <strong>committing</strong> those changes is like putting that box in the mail: you can add more things to the box or take things out as often as you want, but once you put it in the mail, you can’t make further changes.</p>
+</div>
+<div id="how-can-i-check-the-state-of-a-repository" class="section level2">
+<h2>How can I check the state of a repository?</h2>
+<p>When you are using git, you will frequently want to check the status of your
+repository. To do this, run the command <strong><code>git status</code></strong>, which displays a list
+of the files that have been modified since the last time changes were saved.</p>
+<p><code>git status</code> shows you which files are in this staging area, and which files have changes that haven’t yet been put there.</p>
+<p>In order to compare the file as it currently is to what you last committed, you can use <code>git diff filename</code>.</p>
+<p>The command <code>git diff</code> without any file names will show you all the changes in your repository, while <code>git diff directory</code> will show you the changes to the
+files in some directory.</p>
+</div>
+</div>

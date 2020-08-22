@@ -25,6 +25,7 @@ also able to integrate the work done by several people and keep the history of c
 
 <center>
 ![](/git.png)
+<!-- ![](git.png) -->
 </center>
 
 ## Where does git store information?
@@ -63,6 +64,7 @@ If you accidentally mistype a commit message, you can change it using the `--ame
 
 <center>
 ![git work flow](/git_workflow.png)
+<!-- ![git work flow](git_workflow.png) -->
 </center>
 
 We have already explained that the **staging area** is the space in which git stores files with changes you want to save, but that haven't been saved yet.
