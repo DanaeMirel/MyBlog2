@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "My personal blog"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -14,11 +14,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/DanaeMirel"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
-
+    url = "https://twitter.com/DanaeMa76161560"
+[[menu.main]]
+    name = "Linkedin"
+    url = "https://www.linkedin.com/in/danaemartinez/"
 [params]
     description = "A website built through Hugo and blogdown."
 
@@ -35,7 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     favicon = "favicon.ico"
 
     [params.logo]
-    url = "logo.png"
+    url = "Danae.jpeg"
     width = 50
     height = 50
     alt = "Logo"
