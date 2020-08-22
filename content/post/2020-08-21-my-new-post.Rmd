@@ -107,7 +107,7 @@ If you need to see what lines of code or lines of text have changed in the files
 The command `git log` is used to view the log of the project's history. A project's entire log can be overwhelming, so it's often useful to inspect only 
 the changes to particular files or directories. You can do this using `git log path`, where `path` is the path to a specific file or directory.
 
-## Summary:
+## Summary
 
 Now you know
 
