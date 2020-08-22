@@ -113,9 +113,9 @@ Now you know
 
 1. What is a version control system and in particular what is the basic work 
 flow of git,
-2. How to initiate a repository with `git init`,
-3. How to add files to the stage area with `git add`,
-4. How to store changes in your local repository with `git commit`.
-5. How to check the status of your repository with `git status`,
+2. How to initiate a repository with **`git init`**,
+3. How to add files to the stage area with **`git add`**,
+4. How to store changes in your local repository with **`git commit`**.
+5. How to check the status of your repository with **`git status`**,
 
 In the next post I will talk about remote repositories and related services, such as github o gitlab. 
