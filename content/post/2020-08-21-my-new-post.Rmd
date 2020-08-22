@@ -1,11 +1,21 @@
 ---
-title: My new post
+title: Getting started with git
 author: Danae Martinez
 date: '2020-08-21'
-slug: my-new-post
+slug: geting-started-with-git
 categories:
   - R
 tags: []
 ---
 
-Check my new post! 
+# Basic workflow
+
+## What is version control?
+
+A **version control system** is a tool that manages changes made to the files 
+and directories in a project. Many version control systems exist; this document 
+focuses on one called git. Git allows you to:
+
+- Keep track of changes to files,
+- Notice conflicts between changes made by different people,
+- Synchronize files between different computers.
