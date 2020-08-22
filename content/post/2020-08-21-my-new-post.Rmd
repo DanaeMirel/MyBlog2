@@ -1,11 +1,10 @@
 ---
-title: Getting started with git
-author: Danae Martinez
-date: 2015-07-23T21:13:14-05:00
-slug: geting-started-with-git
-categories:
-  - R
-tags: []
+title: "Getting started with git"
+author: "Danae Martinez"
+date: "2020-08-22"
+slug: "geting-started-with-git"
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
 ---
 <div style="text-align: justify">
 
