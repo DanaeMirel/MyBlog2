@@ -102,3 +102,10 @@ The `git reset HEAD` command lets you remove files from the staging area and ret
 
 If you need to see what lines of code or lines of text have changed in the files that compose your repository (since the last commit), you can use the `git show` command, which shows the history of changes, when they were made, and by whom they were made.
 
+## How can I view a repository's history?
+
+The command `git log` is used to view the log of the project's history. A project's entire log can be overwhelming, so it's often useful to inspect only 
+the changes to particular files or directories. You can do this using `git log path`, where `path` is the path to a specific file or directory.
+
+
+
