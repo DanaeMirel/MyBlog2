@@ -74,7 +74,7 @@ When you are using git, you will frequently want to check the status of your
 repository. To do this, run the command **`git status`**, which displays a list 
 of the files that have been modified since the last time changes were saved.
 
-```{bash, eval=FALSE}
+```{bash, eval=FALSE, include=FALSE}
 
 danae:~/Documents/Git/DanaeMirel.github.io$ git status 
 On branch master
