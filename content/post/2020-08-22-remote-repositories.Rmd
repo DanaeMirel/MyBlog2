@@ -1,10 +1,10 @@
 ---
 title: 'Remote repositories in git' 
 author: Danae Martinez
-date: '2020-08-21'
+date: '2020-08-22'
 slug: ''
 categories: []
 tags: []
 ---
 
-Some content
+Some content here. 
