@@ -9,9 +9,20 @@ tags: []
 
 <div style="text-align: justify">
 
-# Basic workflow
+## Table of contents
+- What is git?
+- Why should I use git?
+- Where does git store information?
+- Starting a repository
+- Adding files to the “staging area”
+- How do I commit changes?
+- How can I check the state of a repository?
+- How to empty the staging area?
+- Display changes
+- How can I view a repository’s history?
+- Summary
 
-## What is git?
+# What is git?
 
 Git is a **version control system**, which is a tool that manages changes made
 to the files and directories in a project. Git isn't just for programmers and engineers, any job that has versions that change over time can be managed with git.
@@ -28,6 +39,16 @@ also able to integrate the work done by several people and keep the history of c
 <!-- ![](git.png) -->
 </center>
 
+## Why should I use git? 
+
+There are many benefits to version control, for data science one of the most 
+important benefits is to ensure reproducibility and better team collaboration, 
+allowing changes by multiple people to all be merged into one source. Another 
+great advantage is that tracking the changes you make to your files, you can 
+revert to specific versions should you ever need to. 
+ 
+ 
+# Basic workflow
 ## Where does git store information?
 
 Each of your git projects has two parts: the files and directories that you 
@@ -119,3 +140,7 @@ flow of git,
 5. How to check the status of your repository with **`git status`**,
 
 In the next post I will talk about remote repositories and related services, such as github o gitlab. 
+
+## References
+
+1. [Introduction to git for data science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
