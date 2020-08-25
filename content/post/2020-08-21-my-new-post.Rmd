@@ -144,3 +144,4 @@ In the next post I will talk about remote repositories and related services, suc
 ## References
 
 1. [Introduction to git for data science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+2. [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
