@@ -1,7 +1,7 @@
 ---
 title: What is "Big Data"?
 author: Danae Martinez
-date: '2020-07-25'
+date: '2020-05-25'
 slug: what-is-big-data
 categories: []
 tags: []

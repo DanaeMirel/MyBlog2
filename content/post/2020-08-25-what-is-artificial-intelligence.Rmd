@@ -1,0 +1,8 @@
+---
+title: 'What is artificial intelligence?'
+author: Danae Martinez
+date: '2020-06-25'
+slug: what-is-artificial-intelligence
+categories: []
+tags: []
+---
