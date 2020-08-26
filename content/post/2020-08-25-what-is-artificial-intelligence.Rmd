@@ -6,3 +6,17 @@ slug: what-is-artificial-intelligence
 categories: []
 tags: []
 ---
+
+Artificial intelligence is impacting a diverse range of domains, such as medicine, marketing, HR, and event art! From self-driving cars to believable fakes, artificial intelligence have implications for the future of our society and how we function. 
+
+AI is a huge set of tools for making computers behave intelligently. It comprises several sub-fields, including robotics and machine learning. In recent decades, machine learning has become the most prevalent subset of AI. 
+
+AI and data science do not share the same goal. AI is concerned with intelligence in computers, while data science is about using data for insights. However, there is overlap, it's usually machine learning!
+
+<center>
+<!--- (ai-diagram.png){width=500px} --->
+![](/ai-diagram.png){width=500px}
+</center>
+
+See my next post to know more [machine learning](https://blogdanae.netlify.app/2020/07/25/what-is-machine-learning/)!
+
