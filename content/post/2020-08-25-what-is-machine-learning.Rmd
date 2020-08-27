@@ -7,15 +7,40 @@ categories: []
 tags: []
 ---
 
-Machine Learning is a set of tools for making inferences and predictions from data. 
+Machine Learning, ML, is a set of tools for making inferences (infer causes of events and behaviors, patterns, etc.) and predictions (outcome of future events) from data. ML has several applications and overlaps with several other fields, but I like to describe it as an interdisciplinary mix of statistics and computer science.  
 
-Machine Learning algorithms are extremely powerful because it gives the computers the ability to learn without being explicitly programmed to do so, meaning, the computer can learn without sep by step instructions. Essentially, machine learning learns patterns from existing data and applies it to new data. For ML to be successful, it needs high-quality data. 
+ML algorithms are extremely powerful because they give the computers the ability to learn without being explicitly programmed to do so, meaning, the computer can learn without step by step instructions. Essentially, ML algorithms learn patterns from existing data and applies those patterns to new data.
 
+## What do we need for ML to do its magic? 
 
+For ML to be successful, it needs 
 
-
-## What we need for machine learning? 
+- High-quality data. More precisely a set of example data that will be splitted in 
+  - Training data - is used to build an algorithm 
+  - Test data - is used to evaluate the performance of the trained algorithm 
 - A well defined question/problem 
-- A set of example data, with will be splited in 
-  - Training data is used to build an algorithm 
-  - Test data 
+
+## What is a machine learning model? 
+
+A ML model is a statistical representation of a real-world process, which is modeled using data. There are three types of ML models,
+
+1. **Supervised** Learning models
+
+The training data is labeled, which means taht the values of our target variable are known. 
+
+2. **Unsupervised** Learning models
+
+We don't have a labeled target variable, only features, so those models are about learning natural patterns in the data. Some examples of unsupervised task include, 
+
+- Anomaly detection 
+- Clustering analysis 
+- Data dimension reduction 
+
+3. Reinforcement Learning
+
+<center>
+<!-- ![](ml.png){width=700px}  -->
+![](/ml.png){width=700px} 
+</center>
+
+There are many models to choose from, but they often have specific uses. For example, some models can only be used for supervised learning. Machine Learning is one of the main tools in the Data Science field, to learn more about this topic, go read my [next post](http://127.0.0.1:4321/2020/07/31/what-is-data-science/)!

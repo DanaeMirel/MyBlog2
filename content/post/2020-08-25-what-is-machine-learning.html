@@ -9,16 +9,42 @@ tags: []
 
 
 
-<p>Machine Learning is a set of tools for making inferences and predictions from data.</p>
-<p>Machine Learning algorithms are extremely powerful because it gives the computers the ability to learn without being explicitly programmed to do so, meaning, the computer can learn without sep by step instructions. Essentially, machine learning learns patterns from existing data and applies it to new data. For ML to be successful, it needs high-quality data.</p>
-<div id="what-we-need-for-machine-learning" class="section level2">
-<h2>What we need for machine learning?</h2>
+<p>Machine Learning, ML, is a set of tools for making inferences (infer causes of events and behaviors, patterns, etc.) and predictions (outcome of future events) from data. ML has several applications and overlaps with several other fields, but I like to describe it as an interdisciplinary mix of statistics and computer science.</p>
+<p>ML algorithms are extremely powerful because they give the computers the ability to learn without being explicitly programmed to do so, meaning, the computer can learn without step by step instructions. Essentially, ML algorithms learn patterns from existing data and applies those patterns to new data.</p>
+<div id="what-do-we-need-for-ml-to-do-its-magic" class="section level2">
+<h2>What do we need for ML to do its magic?</h2>
+<p>For ML to be successful, it needs</p>
 <ul>
-<li>A well defined question/problem</li>
-<li>A set of example data, with will be splited in
+<li>High-quality data. More precisely a set of example data that will be splitted in
 <ul>
-<li>Training data is used to build an algorithm</li>
-<li>Test data</li>
+<li>Training data - is used to build an algorithm</li>
+<li>Test data - is used to evaluate the performance of the trained algorithm</li>
 </ul></li>
+<li>A well defined question/problem</li>
 </ul>
+</div>
+<div id="what-is-a-machine-learning-model" class="section level2">
+<h2>What is a machine learning model?</h2>
+<p>A ML model is a statistical representation of a real-world process, which is modeled using data. There are three types of ML models,</p>
+<ol style="list-style-type: decimal">
+<li><strong>Supervised</strong> Learning models</li>
+</ol>
+<p>The training data is labeled, which means taht the values of our target variable are known.</p>
+<ol start="2" style="list-style-type: decimal">
+<li><strong>Unsupervised</strong> Learning models</li>
+</ol>
+<p>We don’t have a labeled target variable, only features, so those models are about learning natural patterns in the data. Some examples of unsupervised task include,</p>
+<ul>
+<li>Anomaly detection</li>
+<li>Clustering analysis</li>
+<li>Data dimension reduction</li>
+</ul>
+<ol start="3" style="list-style-type: decimal">
+<li>Reinforcement Learning</li>
+</ol>
+<center>
+<!-- ![](ml.png){width=700px}  -->
+<img src="/ml.png" width="700" />
+</center>
+<p>There are many models to choose from, but they often have specific uses. For example, some models can only be used for supervised learning. Machine Learning is one of the main tools in the Data Science field, to learn more about this topic, go read my <a href="http://127.0.0.1:4321/2020/07/31/what-is-data-science/">next post</a>!</p>
 </div>
