@@ -6,3 +6,16 @@ slug: what-is-machine-learning
 categories: []
 tags: []
 ---
+
+Machine Learning is a set of tools for making inferences and predictions from data. 
+
+Machine Learning algorithms are extremely powerful because it gives the computers the ability to learn without being explicitly programmed to do so, meaning, the computer can learn without sep by step instructions. Essentially, machine learning learns patterns from existing data and applies it to new data. For ML to be successful, it needs high-quality data. 
+
+
+
+
+## What we need for machine learning? 
+- A well defined question/problem 
+- A set of example data, with will be splited in 
+  - Training data is used to build an algorithm 
+  - Test data 

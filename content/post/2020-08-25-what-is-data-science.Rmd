@@ -6,3 +6,44 @@ slug: what-is-data-science
 categories: []
 tags: []
 ---
+
+Data science is a set of methodologies for taking in thousands of forms of data that area available to us today, and using them to draw meaningful conclusions. Data science is about discovering and communicating insights from data. 
+
+Data scientist are professionals who use the data to provide useful insights to decision makers. More precisely, they can use data to 
+
+- Describe the current state of an organization or process
+- Detect anomalous events, such as fraudulent purchases 
+- Diagnose the causes of observed events and behaviors 
+- Predict future events 
+
+Data is coming from very different sources, so in order to exploit it, data scientist need to adopt a specific workflow: 
+
+1. Data collection and storage 
+2. Data preparation. 
+  This step includes the cleaning, manage missing values, etc.
+3. Exploration and visualization 
+4. Experimentation and predictions
+
+# Data science related roles and tools 
+
+There is not a single job within data science 
+
+- Data engineer.
+
+Data engineers control the flow of data: they build custom data pipelines and storage systems. They design infrastructure so that data is not only collected, but easy to obtein and process. 
+
+Data engineers are proficient in SQL, which they use to store and organize data. They need to be comfortable with cloud computing to ingest and store large amounts of data.  
+
+- Data analyst.
+
+Data analysts perform simpler analysis that describe data. They do this by exploring the data and creating visualizations and dashboards.  
+
+Analyst also use Bussiness Intelligence tools such as Tableau and Power BI, to create dashboards and share their analyses. 
+
+- Data scientist 
+
+Data scientist have a strong data in statistics, enable in them to find new insights from data, rather than solely describing data. The also use traditional machine learning for prediction and forecasting. Data scientist must be proficient in python or R.
+
+- Machine Learning scientist
+
+They go beyond traditional machine learning with deep learning. Machine learning scientist use either R or python to create their predictive models. 
