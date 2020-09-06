@@ -1,0 +1,132 @@
+---
+title: Seek clarity
+author: Danae Martinez
+date: '2015-09-05'
+slug: seek-clarity
+categories: []
+tags: []
+---
+
+If you are committed to your personal and professional development so that
+you can gain greater self-mastery and serve the world with excellence, keep reading this. **Seek clarity** in life is about self-awareness, how you think about tomorrow and what do you stay connected with what matters to you today. It comes from asking yourself questions continually and further refering your perspective on life. Having clarity helps you to keep engaged growing and fulfilled over the long haul. Three practices that will help you ask yourself the rigth questions are:
+
+<center>
+<!-- ![](Seek-Clarity.jpg){width=500px}  -->
+![](/Seek-Clarity.jpg){width=500px} 
+</center>
+
+
+1. *Practice one* : **envision the future four** 
+
+You should be clear on your intentions for yourself, your social world, your skills and services to others. Those areas are called self, social, and service, or the future four. 
+
+  - *Self*
+  
+    - Are you clear about your values? 
+    <!-- Engagement, commitment, excellence -->
+    
+    - Are you clear about your strengths and weaknesses ?
+    <!-- strengths : perseverance, discipline, engagement   -->
+    <!-- weaknesses : public speaking in english and french, social relationships   -->
+    
+    - Are you clear about what you want and about your goals and passions? 
+    <!-- My passion in data science and AI as well as their social implications -->
+    <!-- My goals for the long-term are : earn a PhD, have financial security, be a better version of myself  -->
+    
+    - Do you have a plan to achieve your dreams?
+    <!-- For the next two years I will be working on my skills in order to acces a job position at QuantumBlack. -->
+    <!-- Probably in four years, I will be willing to start a PhD in artificiall intelligence.  -->
+    <!-- In the mean time I will make sure to diversify my sources of revenu, improve my english, start having clients as a freelance. -->
+    <!-- I will be the owner of my place.  -->
+    <!-- I will be living a happy life with my significant other.  -->
+    
+    - If you could describe your ideal self in the future, the person you are trying to become, how would you describe that self?  
+    
+    - If you could describe yourself in just three aspirational words-words that would sum up who you are at your best in the future-what would those words be? 
+    <!-- soy una mujer amorosa, entregada e inspiradora -->
+    <!-- inspiring, one of the best on my field and yet caring and loving with my family  -->
+    
+Know yourself, but also sculp yourself into a better version. Think about who you want to be and how to become that person. 
+
+<!-- I want to be inspiring, I want to be a leader and have influence on other people, I want to be respected and appreciated -->
+
+  - *Social* 
+
+    - Do you actively think about how to be a better listener, how to generate positive emotions, with others, how you can be a good role model?
+    
+Be sure to have clear intentions about how you want to treat other people. Anticipate positive social interactions and strive consciously and consistently to create them.
+
+  - *Skills*
+
+    - What is your primary field of interest? 
+    <!-- artificial intelligence and data science  -->
+    
+    - What are the top three skills that make people successful in that field? What will you do to develop them? 
+    <!-- - Tensorflow or PyTorch  -->
+    <!-- - communication skills, with the ability to explain complex analytical concepts to people from other fields -->
+    <!-- Some R&D experience in machine learning, statistics, or reinforcement learning -->
+    <!-- English -->
+    
+Look into the future. Identify key skills. Obsessively develop those skills. 
+
+  - *Service*
+  
+    - What is the difference you are going to make for others and in the future in general?
+    
+    - To leave a lasting legacy, what are the contributions you can start making now?
+      <!-- - Give my parents financial security as they get old. -->
+      <!-- - In my primary field of interest, be an activist to preserve democracy and fairness with the arrival of new technologies. -->
+      <!-- - Be an activist to increase diversity en the stem area.  -->
+      <!-- - Help enterprises to adop new technologies and increase their productivity and benefits.  -->
+  
+Reconnect with the future and your contribution to it. 
+
+2. *Practice two*: **Determine the feeling you are after**
+
+    - What is the primary feeling I want to *bring* to this situation? 
+    
+    - What is the primary feeling I want to *get* to this situation? 
+    
+    - How do you want to feel in upcoming endeavors? 
+
+Contemplate how you want to feel regardless of what emotions might come up. My automatic emotions don't have to be in charge. My feelings are my own.
+
+3. *Practice three* : **Define what's meaningful** 
+
+Passion + Growth + Contribution = Personal Satisfaction
+
+Enthusiasm + Connection + Satisfaction + Coherence = Meaning
+
+**Putting it all together** 
+
+- Self 
+  - Three words that describe my best self are . . .
+<!-- excellent, committed, disciplined -->
+- Social  
+  - Three words that could define how I want to treat other people are . . .
+<!-- respect, appreciation -->
+  - Some people in my life whom I could improve my interactions with this week include . . .
+<!-- my work colleges, my significant other -->
+- Skills 
+  - The five skills I’m trying to develop most in my life right now are . . .
+  <!-- - English  -->
+  <!-- - Python -->
+  <!-- - Git  -->
+  - The way I can learn or practice those skills this week includes . . .
+  <!-- - English : Write my blog, read books, take online courses to improve my grammar -->
+  <!-- - Python : Take online courses  -->
+  <!-- - Git : Finish my online course and practice -->
+- Service 
+  - Three simple ways I can add value to those around me this week are . . .
+  <!-- - Engage in the meal preparation at home  -->
+  <!-- - Respect social distancing rules  -->
+  - Something I could do this week with real focus and excellence to help someone else is . . .
+  <!-- - Work on a better version of my blog  -->
+- Focus on the Feeling 
+  - The main feelings I want to cultivate in my life, relationships, and work this week include . . .
+  <!-- - Respect, love, honesty   -->
+  - The way I will generate these feelings is to . . .
+  <!-- - Having respectful social interations, demonstrate my love to others thougth acts of service -->
+- Define What’s Meaningful 
+  - Something I can do or create that would bring me more meaning in life is . . .
+  <!-- - Engage with what matters to me: for instance get involved in ethical AI groups. -->
