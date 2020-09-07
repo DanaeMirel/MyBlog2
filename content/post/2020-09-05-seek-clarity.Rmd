@@ -1,7 +1,7 @@
 ---
 title: Seek clarity
 author: Danae Martinez
-date: '2015-09-05'
+date: '2019-09-05'
 slug: seek-clarity
 categories: []
 tags: []
