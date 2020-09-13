@@ -3,8 +3,14 @@ title: What is machine learning?
 author: Danae Martinez
 date: '2020-07-25'
 slug: what-is-machine-learning
-categories: []
-tags: []
+categories:
+  - big-data
+  - code
+  - data-science
+tags:
+  - big-data
+  - tecnology
+  - science
 ---
 
 Machine Learning, ML, is a set of tools for making inferences (infer causes of events and behaviors, patterns, etc.) and predictions (outcome of future events) from data. ML has several applications and overlaps with several other fields, but I like to describe it as an interdisciplinary mix of statistics and computer science.  
