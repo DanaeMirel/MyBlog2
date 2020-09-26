@@ -35,3 +35,14 @@ Cloud computing is offered in three different service models each satisfying a u
 - Infrastructure as a Service (IaaS) - offers cloud infrastructure
 - Platform as a Service (PaaS) - offers infrastructure and software for application development
 - Software as a Service (SaaS) - offers ready-to-use applications in the cloud. Over the past years more and more functionality is being abstracted away from the end user, and offered as a cloud service package.
+
+### Cloud computing roles
+
+The rise of cloud computing has brought on a new wave of technology roles. 
+ 
+- Cloud architect - Design cloud infrastructure for a given business problem
+
+- Cloud engineer - Build, maintain and monitor clouds ervices
+- DevOps engineer - Software **Dev**elopment + IT **Op**erations
+- Security engineer - Test and assess security of data on the cloud
+
