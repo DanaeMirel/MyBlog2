@@ -22,7 +22,7 @@ Cloud computing is the delivery of technology services (including compute, stora
 
 <center>
  ![](/cloud.jpg){width=500px}
-<!-- ![](big-data.jpg) -->
+ <!-- ![](cloud.jpg){width=500px} -->
 </center>
 
 ### Cloud vs. on-premise
@@ -69,9 +69,8 @@ Over the past years more and more functionality is being abstracted away from th
 
 <center>
  ![](/cloud-models.png){width=500px}
-<!-- ![](big-data.jpg) -->
+<!-- ![](cloud-models.png){width=500px} -->
 </center>
-
 <!-- ### Cloud computing roles -->
 
 <!-- The rise of cloud computing has brought on a new wave of technology roles. Some of them include:  -->
