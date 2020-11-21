@@ -3,47 +3,99 @@ title: What is data science?
 author: Danae Martinez
 date: '2020-07-31'
 slug: what-is-data-science
-categories: []
-tags: []
+categories: [Data Literacy]
+tags: [Data Science workflow, Data Science jobs]
 ---
+## Index 
+1. What is data science? 
+2. What kind of problems can be solved with data science?
+3. The data science workflow
+4. Data science related roles
 
-Data science is a set of methodologies for taking in thousands of forms of data that area available to us today, and using them to draw meaningful conclusions. Data science is about discovering and communicating insights from data. 
+### 1. What is data science? 
 
-Data scientist are professionals who use the data to provide useful insights to decision makers. More precisely, they can use data to 
+Data science is a set of methodologies for processing and studying data. The 
+goal is to use this data to draw meaningful conclusions. For instance, thanks to 
+insights coming from data transactions, we could make an effective detection and 
+prevention of fraud involving credit cards. 
 
-- Describe the current state of an organization or process
-- Detect anomalous events, such as fraudulent purchases 
-- Diagnose the causes of observed events and behaviors 
-- Predict future events 
+### 2. What kind of problems can be solved with data science?
 
-Data is coming from very different sources, so in order to exploit it, data scientist need to adopt a specific workflow: 
+More precisely, data scientists can use data to:
 
-1. Data collection and storage 
-2. Data preparation. 
-  This step includes the cleaning, manage missing values, etc.
-3. Exploration and visualization 
-4. Experimentation and predictions
+- Describe the **current state** of an organization or process
+- Detect **anomalous** events, such as fraudulent transactions
+- Diagnose the **causes** of observed events and behaviors 
+- Predict **future** events 
 
-# Data science related roles and tools 
+Data science is about discovering and communicating insights from data, which is 
+coming from very different sources, so in order to exploit it, data scientists 
+need to adopt a specific workflow.
 
-There is not a single job within data science 
+### 3. The data science workflow
 
-- Data engineer.
+1. *Problem Statement*. Establish a well defined question.
 
-Data engineers control the flow of data: they build custom data pipelines and storage systems. They design infrastructure so that data is not only collected, but easy to obtein and process. 
+2. *Data collection and storage*. Fist we collect data from many sources, such 
+as surveys and financial transactions and then, we store that data in a safe and 
+accessible way.   
 
-Data engineers are proficient in SQL, which they use to store and organize data. They need to be comfortable with cloud computing to ingest and store large amounts of data.  
+3. *Data preparation*. This step includes the cleaning, for instance finding 
+missing or duplicate values and converting data into a more organized format.
 
-- Data analyst.
+4. *Exploration and visualization*. This can involve building dashboards, track 
+how the data changes over time or performing comparisons. 
 
-Data analysts perform simpler analysis that describe data. They do this by exploring the data and creating visualizations and dashboards.  
+5. *Experimentation and predictions*. This could include building forecasting 
+systems and trying different machine learning algorithms in order to compare their 
+effectiveness on the data. 
 
-Analyst also use Bussiness Intelligence tools such as Tableau and Power BI, to create dashboards and share their analyses. 
+### 4. Data science related roles
 
-- Data scientist 
+There is not a single job within the data science world. Generally, there are 
+four main roles: 
 
-Data scientist have a strong data in statistics, enable in them to find new insights from data, rather than solely describing data. The also use traditional machine learning for prediction and forecasting. Data scientist must be proficient in python or R.
+- **Data engineer**
 
-- Machine Learning scientist
+Data engineers control the flow of data: they build custom data pipelines and 
+storage systems. They design infrastructure so that data is not only collected, 
+but easy to obtain and process. 
 
-They go beyond traditional machine learning with deep learning. Machine learning scientist use either R or python to create their predictive models. 
+Data engineers are proficient in SQL, which they use to store and organize data. 
+They need to be comfortable with cloud computing to ingest and store large 
+amounts of data.  
+
+- **Data analyst**
+
+Data analysts perform simpler analysis that describe data. They do this by 
+exploring the data and creating visualizations and dashboards.  
+
+Analyst also use Business Intelligence tools such as Tableau and Power BI, to 
+create dashboards and share their analyses. 
+
+- **Data scientist** 
+
+Data scientist have a strong background in statistics, enabling them to find new 
+insights from data, rather than solely describing data. The also use traditional 
+machine learning for prediction and forecasting. Data scientist must be 
+proficient in Python or R.
+
+- **Machine Learning scientist**
+
+They go beyond traditional machine learning with deep learning. Machine learning 
+scientist use either R or Python to create their predictive models. 
+
+
+<center>
+ ![](/data_scientist.png){width=700px}
+<!-- ![](data_scientist.png) -->
+</center>
+
+
+### Other resources and references 
+
+1. [Data Science Workflow](https://www.zeolearn.com/magazine/data-science-workflow)
+2. [Top 9 data science use cases in banking](https://www.fintechnews.org/top-9-data-science-use-cases-in-banking/)
+3. [Data Analyst vs Data Engineer vs Data Scientist: Skills, Responsibilities,
+Salary](https://www.edureka.co/blog/data-analyst-vs-data-engineer-vs-data-scientist/)
+4. [Data Science for Everyone](https://learn.datacamp.com/courses/data-science-for-everyone)
