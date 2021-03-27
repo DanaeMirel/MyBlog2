@@ -10,6 +10,7 @@ tags:
 ---
 
 ## Index
+
 - Introduction  
 - Elements of persuasion
 - References
