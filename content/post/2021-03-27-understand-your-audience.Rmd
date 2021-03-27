@@ -1,7 +1,7 @@
 ---
 title: Understand your audience
 author: Danae Martinez
-date: '2021-03-27'
+date: '2021-01-22'
 slug: understand-your-audience
 categories:
   - leadership
@@ -9,52 +9,81 @@ tags:
   - communication
 ---
 
+## Index 
+- Identify key people
+  - Tips to connect with any audience
+- Listeners’ communication modes 
+- Receptivity 
+- Decision-making styles
+
 If you think about your audience thoroughly before you build your next presentation, you’ll connect empathetically to them and your content will bring more value to them.
 
 ## Identify key people
 
-- Decision makers — people who have the power to approve or reject your idea
+1. *Decision makers* : people who have the power to approve or reject your idea.
 
-- Key stakeholders — those who would be directly affected if your proposal were accepted. Key stakeholders will likely include the person to whom you're presenting your proposal. But they may also include: your peers, your and other managers’ direct reports, your and other managers’ bosses, your organization’s customers, your organization’s suppliers, etc.
+2. *Key stakeholders* : those who would be directly affected if your proposal were accepted. Key stakeholders will likely include the person to whom you're presenting your proposal. 
 
-- Influencers — individuals who can sway your decision makers and your key stakeholders
+3. *Influencers* : individuals who can sway your decision makers and your key stakeholders.
 
-### Connect With Any Audience
+### Tips to connect with any audience
 
-1. Prepare your speech by getting to know your audience ahead of time. 
-2. Define how you want to change your audience. What do you want them to do differently as a result of hearing you speak? Throughout your speech, switch back and forth between talking about where they are now and where they could be if they took your advice. 
-3. Find some common ground. 
-4. Lose the jargon.
-5. Anticipate resistance. That will not only make your presentation stronger, but it will prepare you for the Q&A. And you should always do a Q&A. It will make you seem more sympathetic and give people a chance to be heard.
+1. **Prepare** your speech by getting to know your audience ahead of time. 
+2. **Define** how you want to change your audience. What do you want them to do differently as a result of hearing you speak? Throughout your speech, switch back and forth between talking about where they are now and where they could be if they took your advice. 
+3. **Find** some common ground. Find ways to connect with you audience. 
+4. **Lose** the jargon. If you’re trying to create a human connection with a broad group of people, jargon will only get in the way. 
+5. **Anticipate** resistance. That will not only make your presentation stronger, but it will prepare you for the Q&A. And you should always do a Q&A. It will make you seem more sympathetic and give people a chance to be heard.
 
 ## Listeners’ communication modes 
 
+Different people respond best to specific communication modes that persuaders can use. To persuade others, especially your boss and others senior to you, you need to understand their preferred mode.
 
-- Authoritarian — based on issuing threats and orders
+<center>
+![](\communication_modes.png){width=500px}
+</center>
 
-- Visionary — evoking powerful emotions such as compassion, pride, and hope
-
-- Rational — drawing on data to make a point
-
-- Relational — based on familiarizing yourself with others’ culture and language
+- *Authoritarian* : based on issuing threats and orders.
+- *Visionary* : evoking powerful emotions such as compassion, pride, and hope.
+- *Rational* : drawing on data to make a point.
+- *Relational* : based on familiarizing yourself with others’ culture and language.
 
 ## Receptivity
 
 People differ in terms of what they know about your proposal or idea, how interested they are in what you have to say, and how strongly they support your views. All of these influence their receptivity to what you’re advocating.
 
-There are six categories of receptivity—each of which can relate to audiences of one as well as audiences of many people: 
+There are six categories of receptivity, 
 
-1. Hostile — they disagree with you 
-2. Neutral — they understand your position but still need convincing
-3. Uninterested — they’re informed about your subject but don’t care about it
-4. Uninformed — they lack the information they need to become convinced
-5. Supportive — they already agree with you
-6. Mixed — they have a blend of attitudes and views about your position
+1. *Hostile* : they disagree with you. 
+2. *Neutral* : they understand your position but still need convincing.
+3. *Uninterested* : they’re informed about your subject but don’t care about it.
+4. *Uninformed* : they lack the information they need to become convinced.
+5. *Supportive* : they already agree with you.
+6. *Mixed* : they have a blend of attitudes and views about your position.
 
-It’s likely that some of the individuals you want to persuade will fall into different categories of receptivity. In some cases, you’ll have the chance to meet with them separately to argue for your idea. Depending on which categories of receptivity your listeners fall into, you’ll need to adapt your delivery to persuade them. Here are some ideas.
+Depending on which categories of receptivity your listeners fall into, you’ll need to adapt your delivery to persuade them. Here are some ideas.
+
+<center>
+![](\receptivity_hn.png){width=750px}
+</center>
+
+<center>
+![](\receptivity_uus.png){width=750px}
+</center>
 
 ## Decision-making styles
 
 People often have preferred ways of making decisions. To persuade them, you’ll need to tailor your arguments to the overall decision-making style they tend to use, but keep in mind they may also shift styles depending on the situation. Here are some common styles:
 
+<center>
+![](\decision_making.png){width=750px}
+</center>
+
+<center>
+![](\decision_making2.png){width=750px}
+</center>
+
+
+## References: 
+
+[Persuading Others](https://edls.myhbp.org/hmm12/content/persuading_others/landingpage.html)
 
