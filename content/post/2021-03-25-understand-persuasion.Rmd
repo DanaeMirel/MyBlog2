@@ -27,7 +27,7 @@ To do all this, you need to master the elements of persuasion:
 
 <center>
 <!-- ![](persuation.png){width=500px} -->
-![](\persuation.png){width=500px}
+<!-- ![](\persuation.png){width=500px} -->
 </center>
 
 - **Build credibility**. By earning others’ trust and establishing your expertise.

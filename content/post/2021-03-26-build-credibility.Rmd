@@ -19,7 +19,7 @@ The more trust you earn and the more expertise you establish, the more credible 
 
 <center>
 <!-- ![](credibility.png){width=500px} -->
-![](\credibility.png){width=500px}
+<!-- ![](\credibility.png){width=500px} -->
 </center>
 
 - RESEARCH
