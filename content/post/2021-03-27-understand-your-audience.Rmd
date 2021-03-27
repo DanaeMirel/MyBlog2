@@ -9,7 +9,6 @@ tags:
   - communication
 ---
 
-
 If you think about your audience thoroughly before you build your next presentation, you’ll connect empathetically to them and your content will bring more value to them.
 
 ## Identify key people
@@ -55,4 +54,7 @@ There are six categories of receptivity—each of which can relate to audiences 
 It’s likely that some of the individuals you want to persuade will fall into different categories of receptivity. In some cases, you’ll have the chance to meet with them separately to argue for your idea. Depending on which categories of receptivity your listeners fall into, you’ll need to adapt your delivery to persuade them. Here are some ideas.
 
 ## Decision-making styles
+
+People often have preferred ways of making decisions. To persuade them, you’ll need to tailor your arguments to the overall decision-making style they tend to use, but keep in mind they may also shift styles depending on the situation. Here are some common styles:
+
 
