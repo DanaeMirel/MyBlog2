@@ -1,7 +1,7 @@
 ---
 title: Understand Persuasion
 author: Danae Martinez
-date: '2020-03-25'
+date: '2021-03-25'
 slug: understand-persuasion
 categories:
   - leadership
@@ -26,7 +26,7 @@ But you also need to present information in a way that appeals to their basic hu
 To do all this, you need to master the elements of persuasion:
 
 <center>
- <!-- ![](persuation.png){width=500px} -->
+<!-- ![](persuation.png){width=500px} -->
 ![](\persuation.png){width=500px}
 </center>
 
