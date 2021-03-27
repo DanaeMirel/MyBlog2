@@ -1,0 +1,18 @@
+---
+title: Win hearts
+author: Danae Martinez
+date: '2021-02-05'
+slug: wind-hearts
+categories:
+  - leadership
+tags:
+  - communication
+---
+
+<center>
+![](\appeal_emotions.png){width=500px}
+</center>
+
+## References: 
+
+[Persuading Others](https://edls.myhbp.org/hmm12/content/persuading_others/landingpage.html)
