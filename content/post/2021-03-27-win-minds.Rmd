@@ -1,0 +1,32 @@
+---
+title: Win minds
+author: Danae Martinez
+date: '2021-03-27'
+slug: win-minds
+categories:
+  - leadership
+tags:
+  - communication
+---
+
+
+<center>
+![](\appeal-reason.png){width=500px}
+</center>
+
+<center>
+![](\structure.png){width=750px}
+</center>
+
+<center>
+![](\structure2.png){width=750px}
+</center>
+
+
+<center>
+![](\words.png){width=750px}
+</center>
+
+## References: 
+
+[Persuading Others](https://edls.myhbp.org/hmm12/content/persuading_others/landingpage.html)
