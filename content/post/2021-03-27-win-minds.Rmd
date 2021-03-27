@@ -1,7 +1,7 @@
 ---
 title: Win minds
 author: Danae Martinez
-date: '2021-03-27'
+date: '2021-01-29'
 slug: win-minds
 categories:
   - leadership
