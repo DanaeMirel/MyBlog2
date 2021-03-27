@@ -1,7 +1,7 @@
 ---
 title: Undestand persuation
 author: Danae Martinez
-date: '2021-03-27'
+date: '2021-01-27'
 slug: undestand-persuation
 categories:
   - leadership
@@ -9,11 +9,14 @@ tags:
   - communication
 ---
 
-# Understand Persuasion
+## Index
+- Introduction  
+- Elements of persuasion
+- References
   
-Persuading others is an essential communication skill. No one can achieve important goals on their own. Your success relies on your capacity to persuade others to align with your vision. Effective persuaders have the power to capture an audience, convince others to see things from their perspective and convert opponents to their cause. 
+## Introduction 
 
-## Why it’s critical?
+Persuading others is an essential communication skill. No one can achieve important goals on their own. Your success relies on your capacity to persuade others to align with your vision. Effective persuaders have the power to capture an audience, convince others to see things from their perspective and convert opponents to their cause. 
 
 Persuasion is a critical skill because you need to use it frequently, in many different situations, and with a variety of individuals. 
 
@@ -25,12 +28,12 @@ But you also need to present information in a way that appeals to their basic hu
 
 To do all this, you need to master the elements of persuasion:
   
-  <!-- <center> -->
-  <!-- ![](persuation.png){width=500px} -->
-  <!-- ![](\persuation.png){width=500px} -->
-  <!-- </center> -->
+<center>
+<!-- ![](persuation.png){width=500px} -->
+![](\persuation.png){width=500px}
+</center>
   
-  - **Build credibility**. By earning others’ trust and establishing your expertise.
+- [**Build credibility**](https://blogdanae.netlify.app/2021/03/26/build-credibility/). By earning others’ trust and establishing your expertise.
 
 - **Find common ground**. Describe the benefits of the position you’re advocating in terms of what you and others value — such as increased revenues that could fund initiatives important to your department and others.
 
@@ -38,4 +41,6 @@ To do all this, you need to master the elements of persuasion:
 
 - **Understand human emotion**. Understand the people you want to persuade, and connect with them on an emotional level.
 
+## References
 
+[Persuading Others](https://edls.myhbp.org/hmm12/content/persuading_others/landingpage.html)
