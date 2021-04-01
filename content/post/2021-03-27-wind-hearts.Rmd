@@ -9,8 +9,6 @@ tags:
   - communication
 ---
 
-## Appeal to emotions
-
 To win people's hearts and appeal to their emotions, try these four tactics:
 
 
@@ -18,25 +16,7 @@ To win people's hearts and appeal to their emotions, try these four tactics:
 ![](\appeal_emotions.png){width=500px}
 </center>
 
-## Vivid descriptions
-
-Vivid descriptions-words that paint evocative images in people's minds-deeply tap into listeners' emotions.
-
-## Metaphors and analogies
-
-Analogies let you relate a new idea to one that's already familiar to someone you're trying to persuade. Analogies help people understand and, therefore, accept a new idea. Analogies also foster feelings of familiarity, which many people find reassuring.
-
-Changing the playing field, using analogies, and making it simple to say yes are ways that you can begin to persuade people to do things differently than they’ve done them in the past.
-
-## Tell stories
-
-Starting a meeting with a story engages a team and may just provide an effective framework for the meeting itself.
-
-You can’t deliver an effective presentation unless others trust you. Earn trust by telling stories that build credibility and relationships with your team.
-
-The best stories capture your listeners’ attention and end with a lesson that applies to your current business situation. They’re also concise. They take less than 90 seconds to tell. And they’re personal. They’re about something that happened to you. Tell a powerful story, and people will identify with you and see you as someone they can trust. After that, they’ll want to follow you.
-
-## Listen actively
+## 1. Listen actively
 
 Active listening means reflecting back and summarizing the content and emotions in your listeners’ responses to your ideas.
 
@@ -44,15 +24,32 @@ By reflecting and summarizing, you show that you've heard and understood the peo
 
 Guidelines for active listening include:
 
-- Reflect content. Paraphrase the factual details you're hearing from those you want to persuade: "It sounds like..." "In other words..." "So you're saying..." "It seems that..."
+- **Reflect content**. Paraphrase the factual details you're hearing from those you want to persuade: 
+*"It sounds like..."* 
+*"In other words..."*
+*"So you're saying..."*
+*"It seems that..."*
+*"Let me make sure that I understand you correctly. What I hear you saying is this. Is that accurate?"*
 
- "Let me make sure that I understand you correctly. What I hear you saying is this. Is that accurate?"
+- **Reflect emotions.** Acknowledge your listener's feelings and acknowledge the different types of feelings that you hear. So if a person seems to be really resistant, you might say, *"I'm getting the feeling that you have a concern about this. Could you tell me a little bit more about that?"*
 
-- Reflect emotions. Acknowledge your listener's feelings.
+## 2. Use vivid descriptions
 
-And acknowledge the different types of feelings that you hear. So if a person seems to be really resistant, you might say, "I'm getting the feeling that you have a concern about this. Could you tell me a little bit more about that?"
+Vivid descriptions or words that paint evocative images in people's minds-deeply tap into listeners' emotions.
 
+## 3. Metaphors and analogies
 
+Analogies let you relate a new idea to one that's already familiar to someone you're trying to persuade. Analogies help people understand and, therefore, accept a new idea. Analogies also foster feelings of familiarity, which many people find reassuring.
+
+Changing the playing field, using analogies, and making it simple to say yes are ways that you can begin to persuade people to do things differently than they’ve done them in the past.
+
+## 4. Tell stories
+
+Starting a meeting with a story engages a team and may just provide an effective framework for the meeting itself.
+
+You can’t deliver an effective presentation unless others trust you. Earn trust by telling stories that build credibility and relationships with your team.
+
+The best stories capture your listeners’ attention and end with a lesson that applies to your current business situation. They’re also concise. They take less than 90 seconds to tell. And they’re personal. They’re about something that happened to you. Tell a powerful story, and people will identify with you and see you as someone they can trust. After that, they’ll want to follow you.
 
 ## References: 
 
