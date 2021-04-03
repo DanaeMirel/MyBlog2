@@ -6,6 +6,6 @@ slug: what-diversity-is-and-why-it-matters
 categories:
   - leadership
 tags:
-  - Diversity
-  - Inclusion
+  - diversity
+  - inclusion
 ---

@@ -6,6 +6,6 @@ slug: understand-and-counter-bias
 categories:
   - leadership
 tags:
-  - Diversity
-  - Inclusion
+  - diversity
+  - inclusion
 ---
