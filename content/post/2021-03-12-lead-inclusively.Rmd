@@ -1,0 +1,12 @@
+---
+title: Lead Inclusively
+author: Danae Martinez
+date: '2021-03-12'
+slug: lead-inclusively
+categories:
+  - leadership
+tags:
+  - diversity
+  - inclusion
+  - communication
+---
