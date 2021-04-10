@@ -14,7 +14,7 @@ Differences on your team can be immensely powerful. Learn how by sharpening your
 
 ## Index 
 1. What is diversity?
-2. The business and moral cases
+2. Why diversity matters? 
 3. Individual and group identities
 4. Diversity and power differences
 5. The work to be done
@@ -30,7 +30,7 @@ Diversity  is anything that sets one individual apart from another, including th
 
 A range of differences within a group creates diversity. And diversity matters—for organizations’ and teams’ ability to deliver top performance, and for individuals’ ability to achieve their full potential.
 
-## 2. The business and moral cases
+## 2. Why diversity matters?
 
 <center>
  ![](/background2_diversity.png){width=700px}
@@ -54,7 +54,7 @@ Why? It affirms the dignity of all people—thus honoring their humanity and enh
 
 Diversity also matters because the things that make people different from each other contribute to their identities—how they define who they are and which groups they feel they belong to.
 
-Here’s another interesting point about identity: As you go through life or experience major transitions, you may find yourself shifting among the groups you identify with.
+<!-- Here’s another interesting point about identity: As you go through life or experience major transitions, you may find yourself shifting among the groups you identify with. -->
 
 People make assumptions and draw conclusions about each other based on perceptions about one another’s identities. Those assumptions and conclusions can then influence how people behave around each other. The message? Identity groups do matter.
 
@@ -119,3 +119,7 @@ If this sounds like a lot of work, that’s because it is. But guess what: It ju
 ## References: 
 
 [Diversity, Inclusion, and Belonging](https://edls.myhbp.org/hmm12/content/diversity/what_diversity_is_and_why_it_matters.html)
+
+<!-- ## Next post on this series: -->
+
+[**See next post:** Understand and counter bias](https://blogdanae.netlify.app/2021/03/05/understand-and-counter-bias/)
