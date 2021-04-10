@@ -118,8 +118,10 @@ If this sounds like a lot of work, that’s because it is. But guess what: It ju
 
 ## References: 
 
-[Diversity, Inclusion, and Belonging](https://edls.myhbp.org/hmm12/content/diversity/what_diversity_is_and_why_it_matters.html)
-
+- [Diversity, Inclusion, and Belonging](https://edls.myhbp.org/hmm12/content/diversity/what_diversity_is_and_why_it_matters.html)
+- [Race at Work HBR podcast](https://hbr.org/2020/11/podcast-race-at-work)
 <!-- ## Next post on this series: -->
 
 [**See next post:** Understand and counter bias](https://blogdanae.netlify.app/2021/03/05/understand-and-counter-bias/)
+
+

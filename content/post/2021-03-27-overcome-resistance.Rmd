@@ -74,6 +74,13 @@ Avoid looking defensive by remembering a few simple rules.
 
 ## Acknowledge their arguments first
 
+If you suspect ahead of time that you'll encounter resistance from listeners, prepare a two-sided argument: theirs and yours.
+
+When you present your idea to them, acknowledge their arguments first. You'll disarm them by removing the opportunity for them to oppose you. Without this opportunity, they'll be more open to discussing your idea and listening to the solution you propose.
+
+Present your argument second. Clearly show how the idea you’re proposing provides a better solution than your opponents' does. But also show how you've incorporated resisters' ideas, interests, values, and concerns into your solution.
+
+
 ## References: 
 
 [Persuading Others](https://edls.myhbp.org/hmm12/content/persuading_others/landingpage.html)
