@@ -1,12 +1,12 @@
 ---
-title: Undestand persuation
+title: Undestand persuasion
 author: Danae Martinez
 date: '2021-01-08'
 slug: undestand-persuation
 categories:
   - leadership
 tags:
-  - communication
+  - communication, persuasion
 ---
 
 ## Index
@@ -15,13 +15,13 @@ tags:
 - Elements of persuasion
 - References
   
-## Introduction 
+## 1. Introduction 
 
 Persuading others is an essential communication skill. No one can achieve important goals on their own. Your success relies on your capacity to persuade others to align with your vision. Effective persuaders have the power to capture an audience, convince others to see things from their perspective and convert opponents to their cause. 
 
 Persuasion is a critical skill because you need to use it frequently, in many different situations, and with a variety of individuals. 
 
-## Elements of persuasion
+## 2. Elements of persuasion
 
 To persuade others, you need to position your idea in a way that appeals to the people affected by it. To do so, you have to make a rational case for your position using facts, expert opinions, and actual examples.
 
@@ -42,6 +42,16 @@ To do all this, you need to master the elements of persuasion:
 
 - **Understand human emotion**. Understand the people you want to persuade, and connect with them on an emotional level.
 
-## References
+Effective persuaders have the power to:
+
+1. Capture an audience
+2. Sway others' opinions
+3. Convince others to see things from their perspective
+4. Get others to support their ideas
+5. Convert opponents to their cause
+
+## 3. References
 
 [Persuading Others](https://edls.myhbp.org/hmm12/content/persuading_others/landingpage.html)
+
+[**See next post:** Understand and counter bias](https://blogdanae.netlify.app/2021/03/05/understand-and-counter-bias/)
