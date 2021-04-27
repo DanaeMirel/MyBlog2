@@ -6,18 +6,18 @@ slug: build-credibility
 categories:
   - leadership
 tags:
-  - communication
+  - communication, persuasion
 ---
 
 ## Index 
 
-- What is credibility?
-- Earn others’ trust
-- Establish your expertise
+- 1. What is credibility?
+- 2. Earn others’ trust
+- 3. Establish your expertise
 
-## What is credibility?
+## 1. What is credibility?
 
-Credibility is it’s the cornerstone of [persuasion](https://blogdanae.netlify.app/2021/01/27/undestand-persuation/). That’s because when others see you as credible, they’re more likely to commit time or resources to your idea or proposal.
+Credibility is the cornerstone of [persuasion](https://blogdanae.netlify.app/2021/01/27/undestand-persuation/). That’s because when others see you as credible, they’re more likely to commit time or resources to your idea or proposal.
 
 For you and your ideas to be seen as credible, you need to **earn others’ trust** and **establish your expertise**. 
 
@@ -37,7 +37,7 @@ The more trust you earn and the more expertise you establish, the more credible 
 ![](\credibility.png){width=500px}
 </center>
 
-## Earn others’ trust
+## 2. Earn others’ trust
 
 To earn others' trust:
 
@@ -55,7 +55,7 @@ To earn others' trust:
 
   - *Be consistent*. Avoid acting in ways that conflict with your character and personality. If you behave inconsistently, others may be confused and start wondering whether you have the right intentions.
 
-## Establish your expertise
+## 3. Establish your expertise
 
 People see you as having expertise when you are clearly knowledgeable about your ideas, make reasonable judgment calls, and accumulate a history of successes. But establishing your expertise isn’t something you do only when you have a specific persuasion goal in mind. Instead, you need to do so on an ongoing basis when opportunities arise.
 
