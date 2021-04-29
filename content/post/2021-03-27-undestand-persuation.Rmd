@@ -11,9 +11,9 @@ tags:
 
 ## Index
 
-- Introduction  
-- Elements of persuasion
-- References
+1. Introduction  
+2. Elements of persuasion
+3. References
   
 ## 1. Introduction 
 
