@@ -10,3 +10,90 @@ tags:
   - inclusion
   - communication
 ---
+
+## Index 
+
+1. Why inclusion matters
+2. Inclusion and psychological safety
+3. How to create psychological safety
+4. Encourage authenticity
+5. Demonstrate empathy and compassion
+
+## 1. Why inclusion matters
+
+When people work with others who are different from them, they expand their own thinking and improve their performance. Equally important, they tend to make smarter decisions as a group and come up with more innovative ideas. All of this is good news for the entire organization.
+
+But to realize these positive outcomes, it’s not enough to have a diverse team. You also have to know how to lead for inclusion. That means making sure people feel:
+
+- They belong and their voices matter
+- They are valued and respected
+- They can fully participate in the team’s efforts
+- They can bring their authentic selves to work
+
+Leading for inclusion also means making an effort to learn about each team member as an individual. How can you become an inclusive leader? By regularly taking actions to:
+
+1. Create a sense of psychological safety
+2. Encourage authenticity
+3. Demonstrate empathy and compassion
+
+<center>
+ ![](/did_you_know2.png){width=250px}
+</center>
+
+## 2. Inclusion and psychological safety
+
+Creating an environment in which people feel safe to be themselves at work is vital for fostering inclusion and a sense of belonging on your team.
+
+- Engage in difficult conversations about differences
+- Speak up if they see or hear microaggressions against themselves or others, even if perpetrators are higher up in the organization
+- Make and learn from mistakes about diversity-related issues
+- Contribute their ideas and perspectives without fear of being discounted, ignored, punished, or embarrassed
+- Be candid and challenge the status quo
+- Ask hard questions if they see something that worries them
+
+Psychological safety is essential for empowering your diverse team to fulfill its highest potential. But there are plenty of obstacles that can prevent people from feeling psychologically safe, especially people from marginalized groups—such as women in organizations that employ mostly men, or people of color in organizations where most people are white.
+
+## 3. How to create psychological safety
+
+Consider meetings. Unless they feel safe, attendees won’t feel free to candidly offer their perspectives. This is especially true in virtual meetings, where it’s much harder to observe body language and other cues that indicate how participants are feeling.
+
+
+<center>
+ ![](/psy_safety_meeting1.png){width=250px}
+</center>
+
+<center>
+ ![](/psy_safety_meeting2.png){width=250px}
+</center>
+
+<center>
+ ![](/psy_safety_meeting3.png){width=250px}
+</center>
+
+If you’ve never had the experience of someone at work emphasizing your unique features, take a moment to imagine what it might feel like. 
+How can you avoid making others feel singled out for their differences?
+
+These tips can help: *
+
+1. **Genuinely seek their input.** Ask people for their input because you truly value it, not because you want their opinion only as someone who represents a particular group
+
+2. **Ask open-ended questions.** Ask open-ended (not yes-or-no) questions so you won’t make someone with different viewpoints, experiences, or preferences feel they’re at a disadvantage.
+
+3. **Value each team member as an individual.** Understand that every person within a particular group has unique strengths, challenges, and experiences, and treat them as individuals.
+
+## 4. Encourage authenticity
+## 5. Demonstrate empathy and compassion
+
+
+## References: 
+
+- [Diversity, Inclusion, and Belonging](https://edls.myhbp.org/hmm12/content/diversity/what_diversity_is_and_why_it_matters.html)
+- [Race at Work HBR podcast](https://hbr.org/2020/11/podcast-race-at-work)
+<!-- ## Next post on this series: -->
+
+[**See next post :** ]()
+
+
+
+
+
