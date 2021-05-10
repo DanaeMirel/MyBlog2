@@ -42,9 +42,7 @@ You may have heard that organizations with diverse workforces gain important bus
  ![](/did_you_know.png){width=250px}
 </center>
 
-Beyond those advantages, organizations that support employees in embracing, talking about, and learning from differences also meet a moral imperative.Promoting diversity is simply the right thing to do.
-
-Why? It affirms the dignity of all people—thus honoring their humanity and enhancing their well-being. This applies not just to an organization’s employees, but also to customers, suppliers, and the communities in which an organization operates.
+Beyond those advantages, organizations that support employees in embracing, talking about, and learning from differences also meet a moral imperative. Promoting diversity is simply the right thing to do. Why? It affirms the dignity of all people—thus honoring their humanity and enhancing their well-being. This applies not just to an organization’s employees, but also to customers, suppliers, and the communities in which an organization operates.
 
 ## 3. Individual and group identities
 
@@ -84,7 +82,7 @@ People experiencing marginalization can feel a lack of physical and psychologica
 Despite several positive steps forward, much work remains to combat the destructive impacts of marginalization—and to unlock the real value and advantages that diversity has to offer.
 
 
-Organizations—and managers working within them—can play a major role. For instance, it’s not enough to simply hire people from diverse groups. To reap the benefits from diversity, managers have to make these important changes:
+Organizations and managers working within them can play a major role. For instance, it’s not enough to simply hire people from diverse groups. To reap the benefits from diversity, managers have to make these important changes:
 
 - Improve how they leverage differences in their workforce
 - Actively work against discrimination and marginalization
@@ -105,12 +103,11 @@ An important first step is to have more courageous and candid conversations abou
 
 By taking responsibility for starting new kinds of conversations about diversity, you’ll gain the insights and skills needed to master these four key imperatives:
 
-
-If this sounds like a lot of work, that’s because it is. But guess what: It just might turn out to be the most rewarding work you’ll ever do.
-
 <center>
  ![](/key_imperatives_diversity.png){width=600px}
 </center>
+
+If this sounds like a lot of work, that’s because it is. But guess what: It just might turn out to be the most rewarding work you’ll ever do.
 
 <center>
  ![](/take_away_diversity.png){width=600px}
@@ -122,6 +119,6 @@ If this sounds like a lot of work, that’s because it is. But guess what: It ju
 - [Race at Work HBR podcast](https://hbr.org/2020/11/podcast-race-at-work)
 <!-- ## Next post on this series: -->
 
-[**See next post:** Understand and counter bias](https://blogdanae.netlify.app/2021/03/05/understand-and-counter-bias/)
+[**See next post :** Understand and counter bias](https://blogdanae.netlify.app/2021/03/05/understand-and-counter-bias/)
 
 
