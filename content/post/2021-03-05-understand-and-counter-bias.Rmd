@@ -14,21 +14,20 @@ Bias and privilege can hinder a team’s efforts to foster and benefit from dive
 
 ## Index 
 
-- Factors that erode diversity’s power
-- What is bias?
-- Interrupt your biases
-- What is privilege?
-  - The many forms of privilege
-- Use your privilege to become an ally
+- 1. Factors that erode diversity’s power
+- 2. What is bias?
+- 3. Interrupt your biases
+- 4. What is privilege?
+  - 4.1 The many forms of privilege
+- 5. Use your privilege to become an ally
 
-
-## Factors that erode diversity’s power
+## 1. Factors that erode diversity’s power
 
 To be fully engaged, motivated, and productive, each member of the organization must feel welcomed and included in the team’s efforts, be willing to learn from one another’s differences, and be able to bring their whole, authentic self to work.
 
 But there are two key factors that can prevent you, your team, and your organization from reaping diversity’s benefits: **bias** and **privilege**. 
 
-## What is bias? 
+## 2. What is bias? 
 
 A bias is a prejudice in favor of or against a thing, person, or group compared with another — usually in an unfair or negative way.
 
@@ -62,7 +61,7 @@ Possible solutions:
 For example, there is an assumption that men are better suited to science and technology-related projects than women. So how does this affect women?
 Our experience has shown us that men work in these roles, not women, so we gravitate towards the perception we're used to.
 
-If the bias is based on a stereotype rather than fact, the act of overlooking underrepresented groups of people will continue
+If the bias is based on a stereotype rather than fact, the act of overlooking underrepresented groups of people will continue.
 
 Possible solutions: 
 
@@ -71,7 +70,7 @@ Possible solutions:
 - resolving to do something about it, 
 - becoming accountable for your actions. 
 
-## Interrupt your biases
+## 3. Interrupt your biases
 
 <center>
  ![](/background6_diversity.png){width=700px}
@@ -95,7 +94,7 @@ Counteract any tendency toward modesty among some groups by making it clear that
 Privilege, on the other hand, is something you can’t remove or eliminate; rather, it’s what you do with privilege that matters most.
 
 
-## What is privilege?
+## 4. What is privilege?
 
 Privilege is an unearned, sustained advantage that comes from race, gender, sexuality, ability, socioeconomic status, age, and other factors.
 
@@ -105,7 +104,7 @@ It’s not that people with privilege don’t work hard; it’s that privilege s
 
 The injustice that comes with privilege is made even worse when people deny that they have privilege or aren’t aware of it. Under those conditions, they have difficulty seeing how they can use their advantages to help others thrive. The power of privilege is thus wasted, which is the real problem.
 
-### The many forms of privilege
+### 4.1 The many forms of privilege
 
 Depending on where you live and work, some forms of privilege are taken for granted, because most people in that society or organization share them.
 
@@ -113,7 +112,7 @@ People who have privilege may not recognize the benefits that come with it. They
 
 What’s more, people with privilege might have difficulty seeing how a lack of privilege affects others. So, they may not notice how less privileged individuals in their personal and professional lives are being excluded and marginalized. 
 
-## Use your privilege to become an ally 
+## 5. Use your privilege to become an ally 
 
 You can become an ally — someone who promotes equity and inclusion through supportive relationships and public acts of sponsorship and advocacy. Try these best practices for allyship:
 
@@ -130,10 +129,8 @@ You can become an ally — someone who promotes equity and inclusion through sup
 </center>
 
 
-
-
 ## References 
 - [Diversity, Inclusion, and Belonging](https://edls.myhbp.org/hmm12/content/diversity/what_diversity_is_and_why_it_matters.html)
 - [Race at Work HBR podcast](https://hbr.org/2020/11/podcast-race-at-work)
 
-[**See next post:**]()
+[**See next post : Lead Inclusively**](https://blogdanae.netlify.app/2021/03/12/lead-inclusively/)
