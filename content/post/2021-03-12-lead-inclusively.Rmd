@@ -59,15 +59,15 @@ Consider meetings. Unless they feel safe, attendees won’t feel free to candidl
 
 
 <center>
- ![](/psy_safety_meeting1.png){width=250px}
+ ![](/psy_safety_meeting1.png){width=600px}
 </center>
 
 <center>
- ![](/psy_safety_meeting2.png){width=250px}
+ ![](/psy_safety_meeting2.png){width=600px}
 </center>
 
 <center>
- ![](/psy_safety_meeting3.png){width=250px}
+ ![](/psy_safety_meeting3.png){width=600px}
 </center>
 
 If you’ve never had the experience of someone at work emphasizing your unique features, take a moment to imagine what it might feel like. 
@@ -100,15 +100,15 @@ Social interactions with colleagues can present additional authenticity challeng
 As a manager, to encourage authenticity in your team: *
 
 <center>
- ![](/authenticity1.png){width=250px}
+ ![](/authenticity1.png){width=600px}
 </center>
 
 <center>
- ![](/authenticity2.png){width=250px}
+ ![](/authenticity2.png){width=600px}
 </center>
 
 <center>
- ![](/authenticity3.png){width=250px}
+ ![](/authenticity3.png){width=600px}
 </center>
 
 ## 5. Demonstrate empathy and compassion
