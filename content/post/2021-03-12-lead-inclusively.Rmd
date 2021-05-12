@@ -113,6 +113,44 @@ As a manager, to encourage authenticity in your team: *
 
 ## 5. Demonstrate empathy and compassion
 
+<center>
+ ![](/compassion.png){width=600px}
+</center>
+
+Managers who lead inclusively demonstrate two other powerful characteristics:
+
+- Empathy : The ability to understand what someone else is experiencing
+- Compassion : Sympathetic concern for others' suffering or misfortunes
+
+When you empathize with and have compassion for people on your team—especially those who are members of minority or marginalized groups—you do a lot to make them feel included, heard, and valued.
+
+For one thing, you let them know that you care about them and that you’re taking their unique views and experiences into account. That’s a lot better than just acting on preconceptions about their perspectives.
+
+You also forge strong, personal connections among your team members. And those connections improve their ability to make decisions and collaborate together.
+
+Empathy and compassion matter even more during times of crisis and disruption, when many people are experiencing feelings of fear, loss, and grief. The COVID-19 pandemic, for example, has led to huge increases in depression and anxiety, as many people have lost loved ones, have come down with the virus themselves, or have lost their jobs. Some people have endured all three of these hardships and more.
+
+Some ideas for strengthening your empathy and compassion “muscles” include: 
+
+<center>
+ ![](/curious.png){width=400px}
+</center>
+
+<center>
+ ![](/slow_down.png){width=400px}
+</center>
+
+<center>
+ ![](/listen.png){width=400px}
+</center>
+
+As you do the difficult work of building a truly inclusive team in which every person feels safe and supported, keep in mind that it’s okay to make mistakes. As a leader, you’ll succeed if you can acknowledge and learn from your miscues.
+
+Learning how to lead for inclusion is an ongoing process, as you try new approaches, gain insights from missteps, and continually seek to improve.
+
+<center>
+ ![](/summary_two.png){width=600px}
+</center>
 
 ## References: 
 
@@ -120,7 +158,7 @@ As a manager, to encourage authenticity in your team: *
 - [Race at Work HBR podcast](https://hbr.org/2020/11/podcast-race-at-work)
 <!-- ## Next post on this series: -->
 
-[**See next post :** ]()
+[**See next post : Become a Diversity Advocate** ](https://blogdanae.netlify.app/2021/03/19/become-a-diversity-advocate/)
 
 
 
