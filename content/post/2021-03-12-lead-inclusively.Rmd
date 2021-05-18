@@ -21,6 +21,10 @@ tags:
 
 ## 1. Why inclusion matters
 
+<center>
+ ![](/background_diversity.png){width=700px}
+</center>
+
 When people work with others who are different from them, they expand their own thinking and improve their performance. Equally important, they tend to make smarter decisions as a group and come up with more innovative ideas. All of this is good news for the entire organization.
 
 But to realize these positive outcomes, it’s not enough to have a diverse team. You also have to know how to lead for inclusion. That means making sure people feel:
@@ -45,11 +49,11 @@ Leading for inclusion also means making an effort to learn about each team membe
 Creating an environment in which people feel safe to be themselves at work is vital for fostering inclusion and a sense of belonging on your team.
 
 - Engage in difficult conversations about differences
-- Speak up if they see or hear microaggressions against themselves or others, even if perpetrators are higher up in the organization
+- Speak up if you see or hear microaggressions against yourself or others, even if perpetrators are higher up in the organization
 - Make and learn from mistakes about diversity-related issues
-- Contribute their ideas and perspectives without fear of being discounted, ignored, punished, or embarrassed
+- Contribute your ideas and perspectives without fear of being discounted, ignored, punished, or embarrassed
 - Be candid and challenge the status quo
-- Ask hard questions if they see something that worries them
+- Ask hard questions if you see something that worries you
 
 Psychological safety is essential for empowering your diverse team to fulfill its highest potential. But there are plenty of obstacles that can prevent people from feeling psychologically safe, especially people from marginalized groups—such as women in organizations that employ mostly men, or people of color in organizations where most people are white.
 
@@ -83,6 +87,10 @@ These tips can help: *
 
 ## 4. Encourage authenticity
 
+<center>
+ ![](/background5_diversity.png){width=700px}
+</center>
+
 Managers who lead for inclusion don’t just foster a sense of psychological safety for their team. They also encourage authenticity by helping team members feel welcome to bring their whole selves to work.
 
 Authenticity is a powerful performance booster. When people feel they can be themselves at work, everyone wins:
@@ -114,7 +122,7 @@ As a manager, to encourage authenticity in your team: *
 ## 5. Demonstrate empathy and compassion
 
 <center>
- ![](/compassion.png){width=600px}
+ ![](/compassion.png){width=700px}
 </center>
 
 Managers who lead inclusively demonstrate two other powerful characteristics:
@@ -133,15 +141,15 @@ Empathy and compassion matter even more during times of crisis and disruption, w
 Some ideas for strengthening your empathy and compassion “muscles” include: 
 
 <center>
- ![](/curious.png){width=400px}
+ ![](/curious.png){width=500px}
 </center>
 
 <center>
- ![](/slow_down.png){width=400px}
+ ![](/slow_down.png){width=500px}
 </center>
 
 <center>
- ![](/listen.png){width=400px}
+ ![](/listen.png){width=500px}
 </center>
 
 As you do the difficult work of building a truly inclusive team in which every person feels safe and supported, keep in mind that it’s okay to make mistakes. As a leader, you’ll succeed if you can acknowledge and learn from your miscues.

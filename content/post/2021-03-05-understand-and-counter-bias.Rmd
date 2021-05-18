@@ -29,6 +29,10 @@ But there are two key factors that can prevent you, your team, and your organiza
 
 ## 2. What is bias? 
 
+<center>
+ ![](/background3_diversity.png){width=700px}
+</center>
+
 A bias is a prejudice in favor of or against a thing, person, or group compared with another — usually in an unfair or negative way.
 
 Having biases is part of being human—they may even be hardwired in our brains or reinforced by exposure to societal messages. Still, with effort and intention, we can interrupt our biases—once we understand how they work and learn how to recognize and diffuse them.
@@ -37,33 +41,40 @@ Most important, biases often lie outside our conscious awareness: We don’t kno
 
 Common biases include:
 
-1. **Affinity bias :** The tendency to warm up to people who are similar to ourselves; favoring those who have things in common with us. 
+1. **Affinity bias :** 
+
+The tendency to warm up to people who are similar to ourselves; favoring those who have things in common with us. 
 
 If the person I have to write an evaluation of is someone who graduated from my alma mater, I may rate them much higher than the person with whom I have little or no connection. Unconsciously, the person with whom I have a perceived affinity will automatically have an edge over the others whether they deserve it or not.
 
-Possible solutions: 
+**Possible solutions:** 
 
 - Create standard processes that will help you to pause before you react in favor of, or to the detriment of someone in a review process.
 - Working off a structure that you can apply to everyone will help to lessen the influence of bias in your decision making processes. 
 - Standardization also slows down the process so that your automatic and unconscious gut reaction can be replaced with methodical and deliberate action. 
-2. **Confirmation bias : ** Seeking out evidence that confirms our initial perceptions, ignoring contrary information.
 
-For example, let's say Megha has an idea for a new product. She does market research and presents findings that support her initial idea. When I, her co-worker presents data that shows the product won't be profitable, Megha discounts it. Megha has data, I have data, and both of us believe our data proves the point. Confirmation bias becomes a problem when Megha pushes the product to market, based solely on her data.
+2. **Confirmation bias : ** 
 
-Possible solutions: 
+Seeking out evidence that confirms our initial perceptions, ignoring contrary information.
+
+For example, let's say Megha has an idea for a new product. She does market research and presents findings that support her initial idea. When I, her co-worker present data that shows the product won't be profitable, Megha discounts it. Megha has data, I have data, and both of us believe our data proves the point. Confirmation bias becomes a problem when Megha pushes the product to market, based solely on her data.
+
+**Possible solutions:** 
 
 - Look for data that disproves your point, and ask for others to review your conclusions. 
 - develop standard system of evaluation
 - get your work regularly reviewed
 
-3. **Perception bias** (stereotypes) : tendency to form stereotypes and assumptions about certain groups that makes it difficult to make an objective judgment about individual members of those groups. 
+3. **Perception bias** (stereotypes) : 
+
+Tendency to form stereotypes and assumptions about certain groups that makes it difficult to make an objective judgment about individual members of those groups. 
 
 For example, there is an assumption that men are better suited to science and technology-related projects than women. So how does this affect women?
 Our experience has shown us that men work in these roles, not women, so we gravitate towards the perception we're used to.
 
 If the bias is based on a stereotype rather than fact, the act of overlooking underrepresented groups of people will continue.
 
-Possible solutions: 
+**Possible solutions:** 
 
 - acknowledging the problem exists, 
 - ensuring there is widespread awareness of it, 
@@ -96,6 +107,10 @@ Privilege, on the other hand, is something you can’t remove or eliminate; rath
 
 ## 4. What is privilege?
 
+<center>
+ ![](/background2_diversity.png){width=700px}
+</center>
+
 Privilege is an unearned, sustained advantage that comes from race, gender, sexuality, ability, socioeconomic status, age, and other factors.
 
 Privilege is closely connected to bias. How? Just as bias can hold people back unfairly, privilege can help people advance unfairly.
@@ -113,6 +128,11 @@ People who have privilege may not recognize the benefits that come with it. They
 What’s more, people with privilege might have difficulty seeing how a lack of privilege affects others. So, they may not notice how less privileged individuals in their personal and professional lives are being excluded and marginalized. 
 
 ## 5. Use your privilege to become an ally 
+
+<center>
+ ![](/background4_diversity.png){width=700px}
+</center>
+
 
 You can become an ally — someone who promotes equity and inclusion through supportive relationships and public acts of sponsorship and advocacy. Try these best practices for allyship:
 
