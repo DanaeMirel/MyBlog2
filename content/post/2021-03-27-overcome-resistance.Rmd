@@ -6,7 +6,7 @@ slug: overcome-resistance
 categories:
   - leadership
 tags:
-  - communication
+  - communication, persuasion
 ---
 
 ## Index 

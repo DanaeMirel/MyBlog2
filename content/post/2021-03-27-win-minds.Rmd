@@ -6,7 +6,7 @@ slug: win-minds
 categories:
   - leadership
 tags:
-  - communication
+  - communication, persuasion
 ---
 
 ### Index 
@@ -25,7 +25,7 @@ Follow these five practices for persuading others by appealing to their reasonin
 ![](\appeal-reason.png){width=500px}
 </center>
 
-## 2.The right structure
+## 1.The right structure
 
 How you structure your presentation of an idea-what you say first, second, and so on-can make a big difference in how convincing you are. Start with a dynamic opening to capture your audience’s attention. 
 
@@ -37,7 +37,7 @@ How you structure your presentation of an idea-what you say first, second, and s
 ![](\structure2.png){width=750px}
 </center>
 
-### 3.Compelling evidence
+### 2.Compelling evidence
 
 The evidence you provide to support your idea can further help you win minds. Examples of evidence include:
 
@@ -56,7 +56,7 @@ The evidence you provide to support your idea can further help you win minds. Ex
 - Check text readability. Make sure any text included in a graphic is readable at a distance and in a darkened room. Use a clear and legible font.
 - Avoid talking to your graphics. Look at your listeners while explaining a chart, diagram, or graphic.
 
-### 4.The right benefits
+### 3.The right benefits
 
 The features of your idea, such as how a new process you're recommending works, may interest your listeners. But your idea's benefits *how the idea will help them* will most strongly attract their attention. To win minds, you need to answer your listeners' question, "What's in it for me?"
 
@@ -80,11 +80,36 @@ When you’re trying to persuade someone, your idea may have to compete with ide
   - What makes my proposal unique?
   - Why should my audience accept my proposal over any others?
 
-### 5.The right words
+### 4.The right words
+
+The words you use can strongly determine whether your listeners decide to support your idea. 
+
+Use language that resonates with your audience, such as more informal language with a small group of your peers. In addition:
+
+- Use examples they can relate to, such as pop-culture references or sports examples (if you know your listeners are sports fans).
+- Communicate what you expect to happen if your audience embraces your idea.
+- Present your arguments with confidence.
+- Foster cooperation by encouraging listeners to discuss your idea.
+- Demonstrate integrity through questioning and showing interest.
 
 <center>
 ![](\words.png){width=750px}
 </center>
+
+**Tip for using attention-grabbing language**
+
+If appropriate for your listeners and your persuasion situation, periodically use attention-grabbing words like "easy," "free," "guaranteed," "proven," and "results." Most of these are borrowed from sales. Despite their heavy use, they are still very effective.
+
+### 5. Questions
+
+Questions are among the most powerful persuasion tools available. Use questions to engage your listeners in dialogue about an idea you're proposing. By asking them questions, you show people that you care what they think. Questions also let you control the pace, tone, and direction of the situation-and control which issues get raised.
+
+
+Types of questions you can ask include disturbing, leading, and rhetorical questions:
+
+- Disturbing questions focus your listeners' attention on their most pressing problems.
+- Leading questions influence how your listeners interpret facts and what they remember. They help plant specific information in your listeners' minds.
+- When you use rhetorical questions, you are really asking a question to produce an effect, not to elicit a response. Rhetorical questions help push the listener into accepting a clearly defined proposition. That's why they are an effective way to summarize and conclude.
 
 ## References: 
 
