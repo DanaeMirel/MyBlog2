@@ -1,5 +1,5 @@
 ---
-title: Win minds
+title: Persuading Others: Win minds
 author: Danae Martinez
 date: '2021-01-29'
 slug: win-minds
@@ -9,10 +9,25 @@ tags:
   - communication
 ---
 
+### Index 
+1. The right structure
+2. Compelling evidence
+3. The right benefits
+4. The right words
+5. Questions
+
+
+## Appeal to reason
+
+Follow these five practices for persuading others by appealing to their reasoning:
 
 <center>
 ![](\appeal-reason.png){width=500px}
 </center>
+
+## 2.The right structure
+
+How you structure your presentation of an idea-what you say first, second, and so on-can make a big difference in how convincing you are. Start with a dynamic opening to capture your audience’s attention. 
 
 <center>
 ![](\structure.png){width=750px}
@@ -22,6 +37,50 @@ tags:
 ![](\structure2.png){width=750px}
 </center>
 
+### 3.Compelling evidence
+
+The evidence you provide to support your idea can further help you win minds. Examples of evidence include:
+
+- Testimonials. Offer testimonials from sources your listeners consider expert and credible.
+- Benefits. Explain the benefits that individuals or organizations could gain by adopting your idea.
+- Statistics. Cite memorable, compelling statistics that create a sense of urgency around your idea.
+- Graphics. Three-quarters of what people learn, they acquire visually. So use slides, flip charts, video clips, product samples-any graphic that helps convey your message. A picture is three times more effective at conveying information than words alone. And words and pictures together are six times more effective than words alone.
+
+
+**Tips for using graphics**
+
+- Match graphics to your message.
+-Convey one idea per graphic. If you cram too many concepts onto one slide or diagram, you'll overwhelm your audience.
+- Keep the number of graphics to a minimum. When you're using a slide presentation, avoid presenting more than one slide or overhead every two minutes—for a 40-minute presentation, you'd want no more than about 20 graphics.
+- Keep slides simple. Use key words, not full sentences. Use pictures where possible. Avoid positioning letters vertically. And use no more than two type sizes and fonts per slide.
+- Check text readability. Make sure any text included in a graphic is readable at a distance and in a darkened room. Use a clear and legible font.
+- Avoid talking to your graphics. Look at your listeners while explaining a chart, diagram, or graphic.
+
+### 4.The right benefits
+
+The features of your idea, such as how a new process you're recommending works, may interest your listeners. But your idea's benefits *how the idea will help them* will most strongly attract their attention. To win minds, you need to answer your listeners' question, "What's in it for me?"
+
+- The greater good
+
+Explain how your proposed idea would contribute to the greater good—not just the achievement of your listeners' objectives. Ideally, what you're suggesting could also benefit your unit and your overall organization. In fact, in most cases, the needs of your unit and the needs of the organization will be directly connected. *  Your idea might also benefit society in general.
+
+- Acknowledge costs
+
+Acknowledge the fact that your listeners may have to give something up in order to adopt your idea. Then point out how the benefits of your idea could outweigh the costs.
+
+- Understand fear of loss
+
+Some benefits may help people gain something they don't currently have-like money, time, popularity, possessions, or a good reputation. But others help them avoid losing something they now possess.Research shows that the fear of losing something we have is a more convincing motivator than the prospect of gaining something we don’t have. So when you’re describing the benefits of an idea you’re proposing, consider emphasizing what the other person might lose if they don’t support your idea.
+ 
+- Unique value proposition
+
+When you’re trying to persuade someone, your idea may have to compete with ideas proposed by others. Think about which benefits your audience would value most. Then develop a unique value proposition (UVP) for your proposal. An effective UVP answers these questions:
+
+  - What benefits does my proposal provide?
+  - What makes my proposal unique?
+  - Why should my audience accept my proposal over any others?
+
+### 5.The right words
 
 <center>
 ![](\words.png){width=750px}
@@ -30,3 +89,5 @@ tags:
 ## References: 
 
 [Persuading Others](https://edls.myhbp.org/hmm12/content/persuading_others/landingpage.html)
+
+[**See next post in this serie:** Win hearts](https://blogdanae.netlify.app/2021/02/05/wind-hearts/)

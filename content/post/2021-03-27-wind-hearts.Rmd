@@ -1,5 +1,5 @@
 ---
-title: Win hearts
+title: Persuading Others: Win hearts
 author: Danae Martinez
 date: '2021-02-05'
 slug: wind-hearts
@@ -54,3 +54,5 @@ The best stories capture your listeners’ attention and end with a lesson that 
 ## References: 
 
 [Persuading Others](https://edls.myhbp.org/hmm12/content/persuading_others/landingpage.html)
+
+[**See next post in this serie:** Overcome resistance](https://blogdanae.netlify.app/2021/02/12/overcome-resistance/)

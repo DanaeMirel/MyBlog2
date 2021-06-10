@@ -1,5 +1,5 @@
 ---
-title: Undestand persuasion
+title: Persuading Others: Undestand persuasion
 author: Danae Martinez
 date: '2021-01-08'
 slug: undestand-persuation
